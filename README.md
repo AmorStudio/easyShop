@@ -1,7 +1,7 @@
 ![easy shop logo](https://github.com/Githollywood/easyShop/assets/147069807/39465849-19fa-4888-83c1-a3ff5c1b91cf)
 
 
-
+Admin 
 
 
 ![admin log in](https://github.com/Githollywood/easyShop/assets/147069807/546f622c-6818-4f57-8492-fbc55316b782)
