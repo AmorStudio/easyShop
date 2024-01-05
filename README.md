@@ -10,7 +10,7 @@ Display by category
 
 ![Display by category](https://github.com/Githollywood/easyShop/assets/147069807/30b49f11-0e97-49f3-bfb4-dd144af9231e)
 
-View Cart and log out function
+View Cart and log in/out function
 
 ![View Cart and logout function](https://github.com/Githollywood/easyShop/assets/147069807/7ac4da23-80fd-4bfd-b7c9-26daa67785fa)
 
