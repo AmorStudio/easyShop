@@ -20,6 +20,5 @@ View Cart, Home and Log in/out function
 ![View Cart and logout function](https://github.com/Githollywood/easyShop/assets/147069807/7ac4da23-80fd-4bfd-b7c9-26daa67785fa)
 
 ProductDao 
-max price toggle function 
 
 ![product dao](https://github.com/Githollywood/easyShop/assets/147069807/29bd178d-a468-4267-a1af-0611b8f293a2)
