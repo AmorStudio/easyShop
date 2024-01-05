@@ -13,7 +13,3 @@ Display by category
 View Cart, Home and Log in/out function
 
 ![View Cart and logout function](https://github.com/Githollywood/easyShop/assets/147069807/7ac4da23-80fd-4bfd-b7c9-26daa67785fa)
-
-Before Fixed Bug 
-
-![before modifications](https://github.com/Githollywood/easyShop/assets/147069807/7f795e53-5d5d-4515-830c-7116018962b1)
